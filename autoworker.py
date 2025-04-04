@@ -11,9 +11,9 @@ SOURCE_CHANNEL = -100  # /UnUpload – yahan se lootenge posts! 💰
 DESTINATION_CHANNEL = -100  # /Work Place – yahan daalenge polished maal! 🔥
 
 # Bot ka gang – yeh teen bhai log kaam karenge! 🤖
-BOT1 = "@Link"  # Link ka makeover king! 💅
-BOT2 = "@LinkShotner"  # Short aur sweet banayega! ✂️
-BOT3 = "@Logo"  # Logo daal ke shaan badhayega! 🌟
+BOT1 = "@LinkBot"  # Link ka makeover king! 💅
+BOT2 = "@LinkShotnerBot"  # Short aur sweet banayega! ✂️
+BOT3 = "@LogoBot"  # Logo daal ke shaan badhayega! 🌟
 
 # Telegram ka darwaza kholte hain, bhai ka style shuru! 🚪
 client = TelegramClient('session', api_id, api_hash)
@@ -97,8 +97,8 @@ async def main():
         time.sleep(60)  # 1 minute ka break har round ke baad!
 
 if __name__ == "__main__":
-    print("Bhai ka AutoWorker shuru – Ctrl+C se rok sakte ho! @sup_toon_1 ka swag! 🔥")
+    print("Bhai ka AutoWorker shuru – @Lets_CreateExplor_Tech ka swag! Ctrl+C se rok sakte ho! 🔥")
     try:
         client.loop.run_until_complete(main())
     except KeyboardInterrupt:
-        print("Arre bhai, tune rok diya? Thik hai, milte hain @sup_toon_1 pe! 😎")
+        print("Arre bhai, tune rok diya? Thik hai, @Lets_CreateExplor_Tech pe milte hain! 😎")
