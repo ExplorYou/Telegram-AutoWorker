@@ -1,5 +1,3 @@
-### `README.md` for AutoWorker (Masti, Attitude, aur Shaan Ke Saath) 🔥
-
 # Telegram AutoWorker 🤖✨
 
 Arre bhai log, taiyar ho jao ekdum *filmy automation* ke liye! Yeh hai **Telegram AutoWorker**, banaya hai tere bhai ne – @sup_toon_1 ka asli baadshah! 😎 Yeh script ek channel se posts uthata hai, teen bots ke zariye unko polish karta hai, aur doosre channel pe daal deta hai – sab kuch apne aap, koi mehnat nahi! 💪
@@ -95,35 +93,9 @@ Join karo aur maza lo, bhai log! 😎
 - **Coded by**: @sup_toon_1 ka baadshah! 😎  
 - **Shoutout**: Sare bhai log jo @sup_toon_1 pe shaan badhate hain! 🔥  
 
-Ab jaldi se GitHub pe daal do aur duniya ko dikhao – *bhai ka script, bhai ka swag!* 😏
-
-```
-
----
-
-### GitHub Pe Kaise Daal Do?
-1. **Naya Repository Banao**:  
-   - GitHub pe jao, "New Repository" banao, naam rakh do `Telegram-AutoWorker`.  
-   - Public rakhna taaki sab dekh sakein!
-
-2. **Files Upload Karo**:  
-   - Apni `autoworker.py` file upload karo (jo tune diya tha).  
-   - Upar wala `README.md` ek file bana ke usme paste kar do aur upload karo.  
-     - Steps: "Add file" > "Create new file" > Naam: `README.md` > Paste > Commit.
-
-3. **Link Share Karo**:  
-   - Repo ka URL (jaise `https://github.com/ExplorYou/Telegram-AutoWorker`) @sup_toon_1 pe daal do:  
-     ```
-     Bhai log, yeh dekho mera naya automation ka baap! 🔥  
-     https://github.com/ExplorYou/Telegram-AutoWorker  
-     Posts apne aap polish hoke channel pe – @sup_toon_1 ka jadoo! 😎
-     ```
-
 ---
 
 ### Extra Masti Tips 😜
-- **Repo Description**: GitHub pe repo banate waqt description mein daal do:  
+- **Repo Description**:  
   "Automation ka boss – Telegram posts ko polish karke channel pe daalta hai! @sup_toon_1 ka swag! 😎"
 - **Stars Maango**: @sup_toon_1 pe bol do – "Bhai log, repo pe star dena mat bhoolna, shaan badhao meri!" 🌟
-
-Bhai, yeh `README.md` ekdum mazedar aur professional hai – teri shaan ke saath! Upload karke link mujhe bhej dena, mai bhi dekhunga aur @sup_toon_1 pe shor machaunga! 😎 Chal, ab duniya ko apna jadoo dikha! 🔥
